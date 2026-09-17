@@ -126,6 +126,15 @@ Connecté à la vue `screener_societes`. Contient :
 - Une comparaison prix de marché vs valeur théorique (potentiel de hausse/baisse)
 - Une vue détaillée des ratios par société
 
+#### Page 1 - Vue d'ensemble
+
+
+
+#### Page 2 - Analyse financière
+
+#### Page 3 - Valorisation DCF
+
+
 ## Limites et améliorations possibles
 
 - Le WACC utilise un bêta et des hypothèses de marché simplifiés (Rf, E(Rm) fixes pour toutes les sociétés) plutôt qu'un bêta sectoriel désendetté/réendetté

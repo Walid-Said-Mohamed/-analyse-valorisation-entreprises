@@ -128,15 +128,15 @@ Connecté à la vue `screener_societes`. Contient :
 
 #### Page 1 - Vue d'ensemble
 
-![Mon image](Vue-d'ensemble.png)
+![Vue d'ensemble](./Vue%20d'ensemble.png)
 
 #### Page 2 - Analyse financière
 
-![Mon image](Analyse-financière.png)
+![Mon image](./Analyse%20financière.png)
 
 #### Page 3 - Valorisation DCF
 
-![Mon image](Valorisation-DCF.png)
+![Mon image](./Valorisation%20DCF.png)
 
 ## Limites et améliorations possibles
 
